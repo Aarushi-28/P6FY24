@@ -1,2 +1,4 @@
 this is my first message 
 this is the second message
+
+committed after new user came and he cloned
